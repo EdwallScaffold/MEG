@@ -1,3 +1,6 @@
+BIBLIOGRAFÍA:
+
+
 Alonso, R. C., Lago, M. R., & Unturbe, F. M. (2008). Neuroimagen. Técnicas y procesos cognitivos. In Elsevier eBooks: Vol. Cap. 8: Magnetoencefalografía. Elsevier. https://doi.org/10.1016/b978-84-458-1776-6.x5001-1
 
 Baillet, S. (2017). Magnetoencephalography for brain electrophysiology and imaging. Nature Neuroscience, 20(3), 327–339. https://doi.org/10.1038/nn.4504
